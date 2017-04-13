@@ -15,7 +15,7 @@ class VruiExamples < Formula
   url "https://github.com/KeckCAVES/Vrui.git", :revision => "v#{ver}"
   version "#{ver}-#{pkgver}"
 
-  depends_on "KeckCAVES/keckcaves/vrui"
+  depends_on "indierojo/keckcaves/vrui"
 
   def install
     args = []
