@@ -1,3 +1,4 @@
+=begin
 require 'formula'
 
 class VruiExamplesBlueMarbleTex < Formula
@@ -40,3 +41,4 @@ class VruiExamples < Formula
     ln_sf topodir+"BlueMarble.png", topodir+"EarthTopography.png"
   end
 end
+=end
