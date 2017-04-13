@@ -2,7 +2,7 @@ require 'formula'
 
 class VruiExamplesBlueMarbleTex < Formula
   homepage 'http://keckcaves.org/data/'
-  url 'http://keckcaves.org/data/BlueMarble.png'
+  url 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1920px-The_Earth_seen_from_Apollo_17.jpg'
 #  sha1 '07e19462d4ccd6e6e9122ffa3d2417ce77c59317'
   version '1'
 end
