@@ -3,7 +3,7 @@ require 'formula'
 class VruiExamplesBlueMarbleTex < Formula
   homepage 'http://keckcaves.org/data/'
   url 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/1920px-The_Earth_seen_from_Apollo_17.jpg'
-#  sha1 '07e19462d4ccd6e6e9122ffa3d2417ce77c59317'
+  sha256 'f1a7d8cf7850d9e2e25efc8146d3caf3bbba98cefb6faf34add5489e9cb010fc'
   version '1'
 end
 
