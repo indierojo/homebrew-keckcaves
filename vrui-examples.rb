@@ -1,10 +1,9 @@
-=begin
 require 'formula'
 
 class VruiExamplesBlueMarbleTex < Formula
   homepage 'http://keckcaves.org/data/'
   url 'http://keckcaves.org/data/BlueMarble.png'
-  sha1 '07e19462d4ccd6e6e9122ffa3d2417ce77c59317'
+#  sha1 '07e19462d4ccd6e6e9122ffa3d2417ce77c59317'
   version '1'
 end
 
@@ -41,4 +40,3 @@ class VruiExamples < Formula
     ln_sf topodir+"BlueMarble.png", topodir+"EarthTopography.png"
   end
 end
-=end
